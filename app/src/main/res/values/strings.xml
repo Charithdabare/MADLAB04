@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">lab04</string>
+    <string name="fname">Name</string>
+    <string name="Semail">Email</string>
+    <string name="Spassword">Password</string>
+    <string name="Sretype">Retype Password</string>
+    <string name="sbtn">Submit</string>
+    <string name="btncanl">Cancel</string>
 </resources>
